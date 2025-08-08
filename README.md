@@ -1,39 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Command-line interface with locked commands 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: The One
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aidan Jaison - Muthoot Institute of Technology and Science
 
 ### Project Description
-[2-3 lines about what your project does]
+Here's a command line, but not your regular Linux command line. Here, you've to unlock each commands. You can't just use the "cd" command or the "ls" command as you wish, you have to solve a riddle to be able to use the commands. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The problem that didn't exist that I made up is that you can't easily access the command line and use it as you please. ( Not making life easier )
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The solution that I proposed for the problem I created is that you've to manually earn the right to use each commands. You have to solve a riddle when you try to implement a command in your knowledge. Only by solving the riddle can you use the command in the command line interface 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- **HTML5**: Semantic structure and accessibility
+- **CSS3**: Advanced styling, animations, and responsive design
+- **Vanilla JavaScript**: No dependencies, pure ES6+ code
+- **LocalStorage**: Client-side state persistence
+- **Web Audio API**: Sound effects
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
